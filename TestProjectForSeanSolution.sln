@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectForSean", "TestProjectForSean\TestProjectForSean.csproj", "{535DEB2A-23E7-41AA-88D6-1270274038E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessPackage", "BusinessPackage\BusinessPackage.csproj", "{99F83B06-E567-438A-9209-5140F34663B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535DEB2A-23E7-41AA-88D6-1270274038E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535DEB2A-23E7-41AA-88D6-1270274038E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535DEB2A-23E7-41AA-88D6-1270274038E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535DEB2A-23E7-41AA-88D6-1270274038E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F83B06-E567-438A-9209-5140F34663B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F83B06-E567-438A-9209-5140F34663B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F83B06-E567-438A-9209-5140F34663B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F83B06-E567-438A-9209-5140F34663B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE21A65-7AE2-4659-BCFA-46B9E1B25E33}
+	EndGlobalSection
+EndGlobal
